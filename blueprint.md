@@ -40,4 +40,26 @@ Please make sure to read and observe our Code of Conduct.
 
 ## Your First Contribution
 
+### Find Something to Work On
+
+### Learn About SIGs
+
+### File An Issue
+
+### Contributor Playground
+
+## Community
+
+### Communication
+
+### Events
+
+### Mentorships
+
+## Advanced Topics
+
+### Owner Files
+
+(Kubernetes)
+
 (progress: processing Kubernetis)
