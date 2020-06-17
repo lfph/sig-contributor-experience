@@ -8,4 +8,4 @@ This Contributor Guide Blueprint is a collection of best practices. Its purpose 
 
 Welcome to the Contributor Guide Blueprint!
 
-- [Welcome] (#welcome)
+- [Welcome](#welcome)
