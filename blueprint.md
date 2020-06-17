@@ -32,6 +32,13 @@ Please make sure to read and observe our Code of Conduct.
 
 #### Code Review
 
+Pull Request Checklist (from Prometheus)
+
+- Branch from the master branch and, if needed, rebase to the current master branch before submitting your pull request. If it doesn't merge cleanly with master you may be asked to rebase your changes.
+- Commits should be as small as possible, while ensuring that each commit is correct independently (i.e., each commit should compile and pass tests).
+- If your patch is not getting reviewed or you need a specific person to review it, you can @-reply a reviewer asking for a review in the pull request or a comment, or you can ask for a review on IRC channel #prometheus on irc.freenode.net (for the easiest start, join via Riot).
+- Add tests relevant to the fixed bug or new feature.
+
 #### Review Comments
 
 #### Review Latency
@@ -62,4 +69,4 @@ Please make sure to read and observe our Code of Conduct.
 
 (Kubernetes)
 
-(progress: processing Kubernetis)
+(progress: processing Prometheus)
