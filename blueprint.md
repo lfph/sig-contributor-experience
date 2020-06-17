@@ -1,3 +1,7 @@
+_This is work-in-progress by T. E. Shaw._
+
+_Not final!_
+
 # Contributor Guide Blueprint
 
 ## Purpose
