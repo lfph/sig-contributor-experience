@@ -45,7 +45,13 @@ Pull Request Checklist (from Prometheus)
 
 #### Thanks
 
+### Dependency Management
+
+_Describe how do you do Dependency Management._
+
 ## Your First Contribution
+
+Please check the low-hanging-fruit label to find issues that are good for getting started. 
 
 ### Find Something to Work On
 
@@ -54,6 +60,10 @@ Pull Request Checklist (from Prometheus)
 ### File An Issue
 
 ### Contributor Playground
+
+## Contributing
+
+Should you wish to work on an issue, please claim it first by commenting on the GitHub issue that you want to work on it. This is to prevent duplicated efforts from contributors on the same issue.
 
 ## Community
 
