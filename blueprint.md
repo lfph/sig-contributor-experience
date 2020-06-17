@@ -8,7 +8,9 @@ _Not final!_
 
 This Contributor Guide Blueprint is a collection of best practices. Its purpose is to inspire Contributors when they write the Contributor Guides for their projects. The inspiration for this Guide came primarily from the Contributor Guides of the CNCF.
 
-Contributors using this Blueprint do not have to use everything. They are welcome to clone it and delete, alter and add at will.
+Contributors using this Blueprint do not need to use everything. They are welcome to clone it and delete, alter and add at will.
+
+The Blueprint is kept as one page to ease the overview. Some Contributors prefer to break their Contributor Guide into subpages to make them easier to read.
 
 ## Table of Contents
 
