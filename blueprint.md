@@ -10,11 +10,13 @@ This Contributor Guide Blueprint is a collection of best practices. Its purpose 
 
 ### How to Use
 
-Contributors using this Blueprint do not need to use everything. They are welcome to fork it and delete, change and add at will.
+Contributors using this Blueprint do not need to use everything.
 
-The Blueprint is kept as one page to ease the overview. Some Contributors prefer to break their Contributor Guide into subpages to make them easier to read.
+* You are welcome to fork it and delete, change and add at will.
+* The Blueprint is kept as one page to ease the overview.
+* Some Contributors prefer to break their Contributor Guide into subpages to make them easier to read.
 
-## Blueprint Table of Contents
+## Table of Contents
 
 - [Welcome](#welcome)
 - Before You Get Started
