@@ -6,15 +6,15 @@ _Not final!_
 
 ## Purpose
 
-This Contributor Guide Blueprint is a collection of best practices. Its purpose is to inspire Contributors when they write the Contributor Guides for their particular project. The inspiration for this Guide came primarily from the [Contributor Guides](https://github.com/cncf/contribute) of the [CNCF](https://www.cncf.io).
+This contributor guide blueprint is a collection of best practices. Its purpose is to inspire contributors when they write the contributor guide for their particular project. The inspiration for this guide came primarily from the [Contributor Guides](https://github.com/cncf/contribute) of the [CNCF](https://www.cncf.io).
 
 ### How to Use
 
-Contributors using this Blueprint do not need to use everything.
+Contributors using this blueprint do not need to use everything.
 
 * You are welcome to fork it and delete, change and add at will.
-* The Blueprint is kept as one page to ease the overview.
-* Some Contributors prefer to break their Contributor Guide into subpages to make them easier to read.
+* The blueprint is kept as one page to ease the overview.
+* Some contributors prefer to break their contributor guide into subpages to make them easier to read.
 
 ## Table of Contents
 
@@ -24,7 +24,15 @@ Contributors using this Blueprint do not need to use everything.
 
 ## Welcome
 
-Welcome to the Contributor Guide Blueprint!
+Have you ever wanted to contribute to a cool open source technology?
+
+We will help you understand the organization of the project and direct you to the best places to get started.
+
+You'll be able to pick up issues, write code to fix them, and get your work reviewed and merged.
+
+This document is the single source of truth for how to contribute to the code base.
+
+Feel free to browse the open issues and file new ones, all feedback welcome!
 
 ## Before You Gete Started
 
