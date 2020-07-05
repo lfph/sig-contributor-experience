@@ -6,7 +6,7 @@ _Not final!_
 
 ## Purpose
 
-This Contributor Guide Blueprint is a collection of best practices. Its purpose is to inspire Contributors when they write the Contributor Guides for their projects. The inspiration for this Guide came primarily from the Contributor Guides of the CNCF.
+This Contributor Guide Blueprint is a collection of best practices. Its purpose is to inspire Contributors when they write the Contributor Guides for their particular project. The inspiration for this Guide came primarily from the [Contributor Guides](https://github.com/cncf/contribute) of the [CNCF](https://www.cncf.io).
 
 ### How to Use
 
