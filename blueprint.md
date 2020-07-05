@@ -1,6 +1,6 @@
 _This is work-in-progress by T. E. Shaw._
 
-_Not final!_
+_Not final._
 
 # Contributor Guide Blueprint
 
@@ -13,7 +13,8 @@ This contributor guide blueprint is a collection of best practices. Its purpose 
 Contributors using this blueprint do not need to use everything.
 
 * You are welcome to fork it and delete, change and add at will.
-  * THE PROJECT is a placeholder for the name of your project.
+  * THE PROJECT and PROJECT are placeholders for the name of your project
+  * to@domain.tld is a placeholder for email address
 * The blueprint is kept as one page to ease the overview.
 * Some contributors prefer to break their contributor guide into subpages to make them easier to read.
 
@@ -23,8 +24,8 @@ This guide is broken up into the following sections.
 It is recommended that you follow these steps in order.
 
 - [Welcome](#welcome)
-- [Before You Get Started](#Before You Get Started)
-  - [Sign the Contributor License Agreement](#Sign the Contributor License Agreement)
+- [Before You Get Started](#before-you-get-started)
+  - [Sign the Contributor License Agreement](#sign-the-contributor-license-agreement)
 
 ## Welcome
 
@@ -59,6 +60,11 @@ TODO copy from here: https://github.com/kubernetes/community/blob/master/CLA.md
 ### Code of Conduct
 
 Please make sure to read and observe our Code of Conduct.
+
+THE PROJECT follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting
+the PROJECT Code of Conduct Committee (link) via to@domain.tld.
 
 ### Setting Up Your Development Environment
 
