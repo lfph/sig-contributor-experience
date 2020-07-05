@@ -13,14 +13,18 @@ This contributor guide blueprint is a collection of best practices. Its purpose 
 Contributors using this blueprint do not need to use everything.
 
 * You are welcome to fork it and delete, change and add at will.
+  * THE PROJECT is a placeholder for the name of your project.
 * The blueprint is kept as one page to ease the overview.
 * Some contributors prefer to break their contributor guide into subpages to make them easier to read.
 
 ## Table of Contents
 
+This guide is broken up into the following sections.
+It is recommended that you follow these steps in order.
+
 - [Welcome](#welcome)
-- Before You Get Started
-  - Sign the Contributor License Agreement
+- [Before You Get Started](#Before You Get Started)
+  - [Sign the Contributor License Agreement](#Sign the Contributor License Agreement)
 
 ## Welcome
 
@@ -34,11 +38,23 @@ This document is the single source of truth for how to contribute to the code ba
 
 Feel free to browse the open issues and file new ones, all feedback welcome!
 
-## Before You Gete Started
+## Before You Get Started
 
 ### Sign the Contributor License Agreement
 
 Before you can contribute, you will need to sign the Contributor License Agreement.
+
+The Linux Foundation Public Health (LFPH) defines the legal status of the contributed code in two different types of Contributor License Agreements (CLAs), individual contributors and corporations.
+
+THE PROJECT can only accept original source code from CLA signatories.
+
+This policy does not apply to (third_party) and (vendor).
+
+It is important to read and understand this legal agreement.
+
+#### How do I Sign?
+
+TODO copy from here: https://github.com/kubernetes/community/blob/master/CLA.md
 
 ### Code of Conduct
 
