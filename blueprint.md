@@ -26,6 +26,7 @@ It is recommended that you follow these steps in order.
 - [Welcome](#welcome)
 - [Before You Get Started](#before-you-get-started)
   - [Sign the Contributor License Agreement](#sign-the-contributor-license-agreement)
+  - [Code of Conduct](#code-of-conduct)
 
 ## Welcome
 
@@ -68,7 +69,17 @@ the PROJECT Code of Conduct Committee (link) via to@domain.tld.
 
 ### Setting Up Your Development Environment
 
+TODO copy from here: https://github.com/kubernetes/community/blob/master/contributors/devel/README.md#setting-up-your-dev-environment-coding-and-debugging
+
 ### Community Expectations and Roles
+
+PROJECT is a community project.
+
+Consequently, it is wholly dependent on its community to provide a productive, friendly and collaborative environment.
+
+* Read and review the Community Expectations (link, Kn) for an understanding of code and review expectations.
+* See Community Membership (link, Kn) for a list the various responsibilities of contributor roles.
+  * You are encouraged to move up this contributor ladder as you gain experience.
 
 #### Code Review
 
