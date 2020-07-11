@@ -15,7 +15,7 @@ Working in a open source environment gives your successes visibility.
 
 Your work is vetted by a democratic community.
 
-#### Employment and Career Development 
+#### Career Development and Enterpreneurship
 The visibility of your work, vetted by a democratic community, will improve your standing within your organisation and the broader professional community.
 
 Your better understanding of industry pain points will make you a better professoinal and inrease your chances of professional growth.
