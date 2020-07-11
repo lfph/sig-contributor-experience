@@ -31,7 +31,7 @@ This can lead to lifelong international friendships.
 
 #### Still questions?
 
-Join LFPH's Slack [lfpublichealth.slack.com](http://lfpublichealth.slack.com) and ask questions related to contributor experience in **#sig-contributor-experience**.
+Join LFPH's Slack [lfpublichealth.slack.com](http://lfpublichealth.slack.com) and ask questions related to contributor experience in **#sig-contributor-experience** or address directly the SIG co-chairs.
 
 ### How can I contribute?
 Issues linked in the [project list](https://github.com/lfph/sig-contributor-experience/blob/master/README.md/#help-out-on-lfph-hosted-projects) have been identified by project owners as a great place to jump in. There are plenty of other operational ways to contribute as well. Joining a SIG helps LFPH run smoothly and is a great way to help out apart from development.
