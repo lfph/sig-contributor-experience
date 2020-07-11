@@ -25,7 +25,7 @@ Maintainers are among the first considered for employment for implementations of
 #### Social, Community and International Friendships
 Open source contributes to society in a unique way.
 
-Joining and open source project, you join a diverse community.
+Joining an open source project, you join a diverse community.
 
 This can lead to lifelong international friendships.
 
