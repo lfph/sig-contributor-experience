@@ -11,14 +11,14 @@ These can be related to technology, community management and organisation of wor
 You will learn first hand about industry pain points and will have the change to design, propose, develop and implement solutions.
 
 #### Public Proof of Succes
-Working in a open source environment gives your successes visibility.
+Working in a open source environment gives your successes public visibility.
 
 Your work is vetted by a democratic community.
 
 #### Career Development and Enterpreneurship
-The visibility of your work, vetted by a democratic community, will improve your standing within your organisation and the broader professional community.
+The public visibility of your work, vetted by a democratic community, will improve your standing within your organisation and the broader professional community.
 
-Your better understanding of industry pain points will make you a better professoinal and inrease your chances of professional growth.
+Your better understanding of industry pain points will make you a better professoinal and inrease your chances of career development.
 
 Maintainers are among the first considered for employment for implementations of open source projects. Open source is used in commercial, academic, public and government, and even in space exploration projects. You may even develop ideas, which may result in the establishment of a startup and become the beginning of your enterpreneural carreer.
 
