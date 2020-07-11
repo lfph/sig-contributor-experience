@@ -8,7 +8,7 @@ Contributing to open source projects will allow you to explore, learn and practi
 
 These can be related to technology, community management and organisation of work, funding and enterpreneurship.
 
-You will learn first hand about industry pain points and will have the change to design and propose solutions.
+You will learn first hand about industry pain points and will have the change to design, propose, develop and implement solutions.
 
 #### Public Proof of Succes
 Working in a open source environment gives your successes visibility.
@@ -20,12 +20,12 @@ The visibility of your work, vetted by a democratic community, will improve your
 
 Your better understanding of industry pain points will make you a better professoinal and inrease your chances of professional growth.
 
-Maintainers are among the first considered for employment for implementations of the open source projects. Open source is used in commercial, academic, public and government, and even in space exploration projects. You may even develop ideas, which result in the establishment of a startup and an enterpreneural carreer.
+Maintainers are among the first considered for employment for implementations of open source projects. Open source is used in commercial, academic, public and government, and even in space exploration projects. You may even develop ideas, which may result in the establishment of a startup and become the beginning of your enterpreneural carreer.
 
 #### Social, Community and International Friendships
 Open source contributes to society in a unique way.
 
-Joining and open source project, you join a unique community.
+Joining and open source project, you join a diverse community.
 
 This can lead to lifelong international friendships.
 
