@@ -18,5 +18,6 @@ SIGs oversee specific areas of relevance to the success of the overall LFPH effo
 
 ### Co-Chairs
 
-Kate Gallagher [@kategallagher](https://github.com/kategallagher)
+Kate Gallagher [@kategallagher](https://github.com/kategallagher) 
+
 T. E. Shaw [@dahoum](https://github.com/dahoum)
