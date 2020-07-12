@@ -13,3 +13,10 @@ Project Name | Objective | Primary Language(s) | Organization | Issues
 
 ## Get involved in a special interest group (SIG)
 SIGs oversee specific areas of relevance to the success of the overall LFPH efforts. SIGs usually meet once a month; scheduling and discussion occurs in the relevant Slack channels. If you have an idea for the formation of a new SIG, reach out in the [#sig-contributor-experience channel](https://lfpublichealth.slack.com/messages/sig-contributor-experience) on Slack.
+
+## Governance
+
+### Co-Chairs
+
+Kate Gallagher [@kategallagher](https://github.com/kategallagher)
+T. E. Shaw [@dahoum](https://github.com/dahoum)
