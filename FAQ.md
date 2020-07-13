@@ -9,7 +9,7 @@ Contributing to open source projects allows you to explore, learn, and practice 
 #### 2. Public Proof of Success
 Working in a open source environment gives your successes public visibility. Your work is also vetted by a democratic community.
 
-#### 3. Career Development and Enterpreneurship
+#### 3. Career Development and Entrepreneurship
 That public visibility can improve your standing within your organisation and the broader professional community. Your improved understanding of industry pain points will make you a better professoinal and inrease your chances of career development. Maintainers are among the first considered for employment implementing open source projects. Open source code is used in commercial, academic, public, and government settings, and even in space exploration projects. You may even develop ideas which may result in the establishment of a startup and become the beginning of your entrepreneurial career.
 
 #### 4. Community and International Friendships
