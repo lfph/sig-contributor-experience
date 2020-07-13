@@ -3,35 +3,21 @@
 ### Why contribute to LFPH projects?
 There are many reasons to contribute to open source projects.
 
-#### Personal and Professional Growth
-Contributing to open source projects will allow you to explore, learn and practice skills, which might be unavailable in your current situation.
+#### 1. Personal and Professional Growth
+Contributing to open source projects allows you to explore, learn, and practice skills which might be unavailable in your current situation. These skills can be related to technology, or could be in community management and organisation of work, funding and enterpreneurship. You will learn firsthand about industry pain points and will have the change to propose, design, develop, and implement solutions.
 
-These can be related to technology, community management and organisation of work, funding and enterpreneurship.
+#### 2. Public Proof of Success
+Working in a open source environment gives your successes public visibility. Your work is also vetted by a democratic community.
 
-You will learn first hand about industry pain points and will have the change to design, propose, develop and implement solutions.
+#### 3. Career Development and Enterpreneurship
+That public visibility can improve your standing within your organisation and the broader professional community. Your improved understanding of industry pain points will make you a better professoinal and inrease your chances of career development. Maintainers are among the first considered for employment implementing open source projects. Open source code is used in commercial, academic, public, and government settings, and even in space exploration projects. You may even develop ideas which may result in the establishment of a startup and become the beginning of your entrepreneurial career.
 
-#### Public Proof of Succes
-Working in a open source environment gives your successes public visibility.
+#### 4. Community and International Friendships
+Open source projects contribute to society in a unique way. In joining an open source project, you join a diverse community. This can lead to lifelong international friendships.
 
-Your work is vetted by a democratic community.
+#### Still have questions?
 
-#### Career Development and Enterpreneurship
-The public visibility of your work, vetted by a democratic community, will improve your standing within your organisation and the broader professional community.
-
-Your better understanding of industry pain points will make you a better professoinal and inrease your chances of career development.
-
-Maintainers are among the first considered for employment for implementations of open source projects. Open source is used in commercial, academic, public and government, and even in space exploration projects. You may even develop ideas, which may result in the establishment of a startup and become the beginning of your enterpreneural carreer.
-
-#### Social, Community and International Friendships
-Open source contributes to society in a unique way.
-
-Joining an open source project, you join a diverse community.
-
-This can lead to lifelong international friendships.
-
-#### Still questions?
-
-Join LFPH's Slack [lfpublichealth.slack.com](http://lfpublichealth.slack.com) and ask questions related to contributor experience in **#sig-contributor-experience** or address directly the [SIG Contributor Experience Co-Chairs](https://github.com/lfph/sig-contributor-experience/#co-chairs).
+Join [LFPH's Slack](http://lfpublichealth.slack.com) and ask questions related to contributor experience in [#sig-contributor-experience](https://lfpublichealth.slack.com/messages/sig-contributor-experience) or reach out to the [SIG Contributor Experience Co-Chairs](https://github.com/lfph/sig-contributor-experience/#co-chairs).
 
 ### How can I contribute?
 Issues linked in the [project list](https://github.com/lfph/sig-contributor-experience/blob/master/README.md/#help-out-on-lfph-hosted-projects) have been identified by project owners as a great place to jump in. There are plenty of other operational ways to contribute as well. Joining a SIG helps LFPH run smoothly and is a great way to help out apart from development.
