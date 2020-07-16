@@ -106,6 +106,10 @@ Please check the low-hanging-fruit label to find issues that are good for gettin
 
 ### Find Something to Work On
 
+GitHub has a feature allowing issues to be marked as "good frist issue".
+
+![Good First Issue](/images/good-first-issue.png)
+
 ### Learn About SIGs
 
 ### File An Issue
