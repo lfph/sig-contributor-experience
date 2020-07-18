@@ -18,6 +18,8 @@ Contributors using this blueprint do not need to use everything.
 * The blueprint is kept as one page to ease the overview.
 * Some contributors prefer to break their contributor guide into subpages to make them easier to read.
 
+> Quotes passages, like this one are, are guidance towards the authors of a specific contributor guide.
+
 ## Table of Contents
 
 This guide is broken up into the following sections.
@@ -101,6 +103,8 @@ Pull Request Checklist (from Prometheus)
 _Describe how do you do Dependency Management._
 
 ## Your First Contribution
+
+> Friendly open source projects should reserve specific issues for newbies.
 
 Please check the low-hanging-fruit label to find issues that are good for getting started. 
 
