@@ -40,6 +40,16 @@ This document is the single source of truth for how to contribute to the code ba
 
 Feel free to browse the open issues and file new ones, all feedback welcome!
 
+### Why to Contribute?
+
+If you have come here, but are still unsure what are the benefits of contributing to an open source projects, perhaps the [FAQ](/FAQ.md) will help you?
+
+In case you are still unsure, you can come and talk to the LFPH Special Interests Group (SIG) Contribugor Experience (link to it in the FAQ).
+
+### How to contribute?
+
+There are many ways to contribute to an open source project. Simply using it, is the most common and straightforward. Being a user, you can contribute ideas or describe issues, so that they can be fixed. Getting closer, you can help with organisation, design or write for our website and social media, or write code.
+
 ## Before You Get Started
 
 ### Sign the Contributor License Agreement
