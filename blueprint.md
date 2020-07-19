@@ -18,8 +18,6 @@ Contributors using this blueprint do not need to use everything.
 * The blueprint is kept as one page to ease the overview.
 * Some contributors prefer to break their contributor guide into subpages to make them easier to read.
 
-> Quotes passages, like this one are, are guidance towards the authors of a specific contributor guide.
-
 ## Table of Contents
 
 This guide is broken up into the following sections.
@@ -104,15 +102,15 @@ _Describe how do you do Dependency Management._
 
 ## Your First Contribution
 
-> Friendly open source projects should reserve specific issues for newbies.
-
-Please check the low-hanging-fruit label to find issues that are good for getting started. 
+We reserve specific issues for newcomers.
 
 ### Find Something to Work On
 
-GitHub has a feature allowing issues to be marked as "good frist issue".
+GitHub has a great feature allowing issues to be marked as "good frist issue".
 
 ![Good First Issue](/images/good-first-issue.png)
+
+Look for such issues in order to begin and contact us in case all have been taken.
 
 ### Learn About SIGs
 
