@@ -2,7 +2,7 @@
 Welcome to Linux Foundation Public Health! There are a number of ways you can get involved with LFPH, outlined below. For additional details, [check out our FAQs](https://github.com/lfph/sig-contributor-experience/blob/master/FAQ.md).
 
 ## Get involved in the LFPH Ecosystem
-A great first step for any path of involvement is to [join the LFPH Slack](https://slack.lfph.io). There are dedicated channels for SIGs, as well as an [#onboarding channel](https://lfpublichealth.slack.com/messages/onboarding) for any  questions about getting started.
+A great first step for any path of involvement is to [join the LFPH Slack](https://slack.lfph.io). Please, introduce yourself in the [#introductions](https://lfpublichealth.slack.com/messages/introductions) channel and then go to the [#sig-contributor-experience](https://lfpublichealth.slack.com/messages/sig-contributor-experience) channel with questions about getting started.
 
 ## Help out on LFPH-hosted projects
 The following projects are hosted by LFPH and open to contributor development.
