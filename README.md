@@ -21,4 +21,4 @@ SIGs oversee specific areas of relevance to the success of the overall LFPH effo
 
 Kate Gallagher [@kategallagher](https://github.com/kategallagher) 
 
-T. E. Shaw [@dahoum](https://github.com/dahoum)
+T. E. Shaw [@dahoum](https://github.com/dahoum) t.e.shaw@lfph.io
