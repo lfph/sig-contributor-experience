@@ -147,9 +147,15 @@ This section describes our community, how we communicate, meet, decide and work 
 
 ### Communication
 
+Day to day communication takes place on our Slack. Register _here_.
+
 ### Events
 
+We have a monthly Zoom call, which takes place every third Thursday at 6pm UTC and will be adjusted depending on the geographical locaton of the participants.
+
 ### Mentorships
+
+We offer mentorship for young and aspiring contributors. Contact T. E. Shaw t.e.shaw@lfph.io with any questions related to that.
 
 ## Advanced Topics
 
